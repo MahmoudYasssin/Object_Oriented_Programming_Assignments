@@ -1,5 +1,3 @@
-//Mahmoud Yassin Mahmoud ---> 20200506
-//Hager Ali Younes ---> 20200614
 #include <iostream>
 using namespace std;
 class  Item
