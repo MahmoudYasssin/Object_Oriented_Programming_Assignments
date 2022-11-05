@@ -1,6 +1,3 @@
-//Mahmoud Yassin Mahmoud Yassin ---> 20200506
-//Hager Ali Younes --->20200614
-
 #include <iostream>
 #include <windows.h>
 using namespace std;
