@@ -1,6 +1,3 @@
-//Hager Ali Younes ---> 20200614
-//Mahmoud Yassin Mahmoud Yassin ---> 20200506
-
 #include <iostream>
 #include <cmath>
 #include <fstream>
